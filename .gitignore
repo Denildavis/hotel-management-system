@@ -1,0 +1,42 @@
+# Secrets / configuration
+HotelManagement.Api/appsettings.json
+HotelManagement.Api/appsettings.Development.json
+
+# Uploaded files / identity documents
+HotelManagement.Api/uploads/
+
+# Uploaded identity documents
+HotelManagement.Api/uploads/
+
+# Application configuration
+HotelManagement.Api/appsettings.Development.json
+
+# .NET
+**/bin/
+**/obj/
+**/.vs/
+*.user
+*.suo
+
+# Node / React
+**/node_modules/
+**/dist/
+**/build/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# ZIP files
+*.zip
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
